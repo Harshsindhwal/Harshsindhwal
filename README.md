@@ -3,7 +3,9 @@
 
 ###
 
-<p align="center">a.k.a. DiluteWater<br>A student from India</p>
+<p align="center"><br>A student from India</p>
+<div align="center"><img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300'></div>
+
 
 ###
 
