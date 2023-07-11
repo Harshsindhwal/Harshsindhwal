@@ -1,5 +1,5 @@
 <div align="center"><img src="https://i.imgur.com/YHbA0nK.gif" height=300></div>
-<h1 align="center">Hello World! 👋<br>I'm Rachit Khurana</h1>
+<h1 align="center">Hello World! 👋<br>I'm Harsh Sindhwal</h1>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Full Stack Developer | Pythonista | Student | Programmer | Tech Enthusiast | Learner | Linux 🖤</p>
+<p align="left">Full Stack Developer | Student | Programmer | Tech Enthusiast | Learner </p>
 
 ###
 
@@ -27,7 +27,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rachitkhurana1" target="_blank">
+  <a href="https://www.linkedin.com/in/harshsindhwal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/notnotrachit" target="_blank">
