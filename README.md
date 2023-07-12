@@ -1,5 +1,5 @@
 <div align="center"><img src="https://i.imgur.com/YHbA0nK.gif" height=300></div>
-<h1 align="center">Hello World! 👋<br>I'm Harsh Sindhwal</h1>
+<h1 align="center">Hello World! 👋<br>I'm <a href="https://bento.me/harshsindhwal">Harsh Sindhwal</h1>
 
 ###
 
