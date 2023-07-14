@@ -1,4 +1,4 @@
- <div align="center"><img src="https://media.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif" height=300></div>
+<div align="center"><img src="https://media.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif" height=300></div>
 <h1 align="center">Hello World! 👋<br>I'm <a href="https://bento.me/harshsindhwal">Harsh Sindhwal</h1>
 
 ###
