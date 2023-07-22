@@ -4,7 +4,10 @@
 ###
 
 <p align="center"><br>A student from India</p>
-<div align="center"><img align='center' src='https://i.imgur.com/YHbA0nK.gif' width='300'></div>
+<div align="center">  
+ <!-- Profile Views Counter -->
+ <img src = "https://komarev.com/ghpvc/?username=easyvansh&style=for-the-badge&color=ab00ff"/>
+</div>
 
 
 ###
