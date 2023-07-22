@@ -9,14 +9,6 @@
  <img src = "https://komarev.com/ghpvc/?username=easyvansh&style=for-the-badge&color=ab00ff"/>
 </div>
 
-
-###
-
-<div align="center">
- <img src="https://visitcount.itsvg.in/api?id=notnotrachit&label=Profile%20Views&color=0&icon=1&pretty=true" /> 
-
-</div>
-
 ###
 
 <h2 align="left">About me:</h2>
